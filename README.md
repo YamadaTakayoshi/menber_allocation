@@ -1,0 +1,2 @@
+# menber_allocation
+アルゴリズム
